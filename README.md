@@ -1,8 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20Hyokyung%20Kim's%20Profile!&fontSize=50)
 
-# 🔍김 효 경 🔎
-
-**👋안녕하세요. AI 개발자 지원자 김효경 입니다**
+- 👋안녕하세요. AI 개발자 지원자 김효경 입니다
 - 🔥컨택을 원하시면 010-9260-9417 / rlagyrud9417@gmail.com으로 연락주세요.
 
 # 🔗 LINK
