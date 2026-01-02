@@ -1,8 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=AI%20모델링%20및%20LLM%20학습일지&fontSize=50)
 
+<<<<<<< HEAD
 <div align="center">  
 
 **매일 1commit으로 성장하는 중** 🚀
+=======
+- 👋안녕하세요. AI 개발자 지원자 김효경 입니다
+- 🔥컨택을 원하시면 010-9260-9417 / rlagyrud9417@gmail.com으로 연락주세요.
+>>>>>>> c2d75ffaf6f018fe2833d783b48a545dff8bafec
 
 </div>
 
