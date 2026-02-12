@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=AI%20모델링%20및%20LLM%20학습일지&fontSize=50)
 
-<<<<<<< HEAD
+
 <div align="center">  
 
 **매일 1commit으로 성장하는 중** 🚀
