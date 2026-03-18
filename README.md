@@ -25,6 +25,22 @@
 
 ---
 
+## 🚀 Featured Projects
+
+### 1. [환경 변화에 따른 수원시 한식 일일 매출 예측](https://github.com/Hyo0806/1stProject)
+- 경기도 카드 소비 데이터 약 **3,226만 행** 전처리
+- 한식 업종 기준으로 데이터 **약 98% 경량화**
+- **Gradient Boosting / MLP** 기반 매출 예측 모델 개발
+- **Flask 기반 웹 서비스** 구현
+
+### 2. [법률 RAG 기반 주택 임대차계약 리스크 분석 AI 챗봇](https://github.com/thre3o2wo/2ndTeamProject)
+- **RAG 기반 LLM 챗봇** 설계 및 구현
+- Dense + Sparse 기반 **Hybrid Retrieval** 구조 적용
+- **Prompt Engineering / Retrieval 최적화** 수행
+- 법령·판례 기반 질의응답 서비스 개발
+
+---
+
 ## 📚 Curriculum
 
 <details>
