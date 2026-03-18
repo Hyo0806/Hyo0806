@@ -113,9 +113,6 @@
 ## 🏆 GitHub Trophy
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Hyo0806&show_icons=true&theme=radical" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=Hyo0806&theme=flat&no-frame=true&margin-w=10"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Hyo0806&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyo0806&layout=compact&theme=default" />
 </div>
