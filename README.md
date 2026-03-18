@@ -108,9 +108,6 @@
 
 </div>
 
----
-
-## 🏆 GitHub Trophy
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hyo0806&show_icons=true&theme=default" />
