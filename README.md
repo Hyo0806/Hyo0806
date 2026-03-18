@@ -1,5 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=AI%20모델링%20및%20LLM%20학습일지&fontSize=50)
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=AI%20모델링%20및%20LLM%20학습일지&fontSize=45" width="800"/>
+</div>
 <div align="center">
 
 ### 👋 안녕하세요, AI 개발자 김효경입니다
