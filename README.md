@@ -114,6 +114,8 @@
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Hyo0806&theme=radical&no-frame=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Hyo0806&show_icons=true&theme=radical" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Hyo0806&theme=flat&no-frame=true&margin-w=10"/>
 
 </div>
